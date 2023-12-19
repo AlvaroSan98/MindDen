@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MindDen</string>
+
+    <string name="contacts">Contactos</string>
+    <string name="full_name">Nombres y apellidos</string>
+    <string name="email">Email</string>
+    <string name="gender">Género</string>
+    <string name="sign_in_date">Fecha de registro</string>
+    <string name="phone">Teléfono</string>
+    <string name="address">Dirección</string>
+    <string name="male">Hombre</string>
+    <string name="female">Mujer</string>
+</resources>
